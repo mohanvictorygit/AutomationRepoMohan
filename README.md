@@ -33,4 +33,6 @@ Application url is fetched from the Application.Properties
 //Implicit wiat used to sync the different typs of objects.
 driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 
+**Test Output:**
+TestNG-results.xml and index.html
 
