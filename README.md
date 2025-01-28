@@ -12,6 +12,8 @@
 **BASE** package used to maintain the different types of drivers.
 **PAGEOBJECT** package is used to maintain the page objects.
 **TESTCASE** package is used to maintain all the test cases for the project.
+POS_TestClass.java is the method which uses POM with TestNG framework.
+TestClass.java is the method which uses without any Framework.
 **POM.XML** is used to maintain all the dependencies for the project.
 
 Below are the** reusable functions** used in the POS Automation:
