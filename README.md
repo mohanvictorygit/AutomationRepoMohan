@@ -14,7 +14,7 @@
 **TESTCASE** package is used to maintain all the test cases for the project.
 **POM.XML** is used to maintain all the dependencies for the project.
 
-Below are the** reusable functions** uned in the POS Automation:
+Below are the** reusable functions** used in the POS Automation:
 
 1. ClickInputToCountry
 2. ClearToCountryDropdown
